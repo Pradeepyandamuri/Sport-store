@@ -1,0 +1,2 @@
+Title:Sport Store
+Description: Developed a responsive front-end for a sports store website using HTML, CSS, and JavaScript. The website features a visually appealing layout that allows users to browse a variety of sports products, view product details, and add items to a shopping cart. Key functionalities include product filtering, a dynamic cart system, and a user-friendly interface to enhance the overall shopping experience.
